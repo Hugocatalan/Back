@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.final</groupId>
-    <artifactId>porfolioR</artifactId>
+    <artifactId>porfolio</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>porfolio</name>
     <description>Porfolio</description>
